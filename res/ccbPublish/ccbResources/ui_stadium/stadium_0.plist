@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>ccbResources/ui_stadium/stadium_0/stadium_0.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{720,766}}</string>
+                <key>offset</key>
+                <string>{0,-257}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,514},{720,766}}</string>
+                <key>sourceSize</key>
+                <string>{720,1280}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>stadium_0.png</string>
+            <key>size</key>
+            <string>{724,770}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:5e61ad12e625645c8d61243eb83239ba:22e7837f5c12522b39ddf608cfc89f03:d51e6ae5e9f83450c21eb19ea9f116ed$</string>
+            <key>textureFileName</key>
+            <string>stadium_0.png</string>
+        </dict>
+    </dict>
+</plist>
